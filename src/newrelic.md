@@ -10,3 +10,8 @@ sudo ./newrelic-install install
 
 
 Alternative: https://docs.newrelic.com/docs/agents/php-agent/advanced-installation/php-agent-installation-non-standard-php-advanced#manual
+
+
+If you have issues on OSX: 
+
+* Edit the newrelic-install to put daemon on `/usr/local/bin/newrelic-daemon`
