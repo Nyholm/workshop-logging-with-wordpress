@@ -1,5 +1,9 @@
 <?php
 
+/*
+ * Read more at https://github.com/Seldaek/monolog
+ */
+
 require_once __DIR__.'/../vendor/autoload.php';
 
 use Monolog\Logger;
