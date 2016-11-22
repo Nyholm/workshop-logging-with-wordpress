@@ -3,4 +3,4 @@ _var/
 composer.lock
 phpunit.xml
 vendor/
-
+logs/
