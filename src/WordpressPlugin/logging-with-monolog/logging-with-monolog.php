@@ -12,7 +12,7 @@ use Monolog\Logger;
 use Monolog\Handler\StreamHandler;
 
 // Make sure we use composer autoload
-require_once __DIR__.'/../../vendor/autoload.php';
+require_once __DIR__.'/../../../vendor/autoload.php';
 
 class MyLogger
 {
