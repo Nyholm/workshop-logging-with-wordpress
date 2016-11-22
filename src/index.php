@@ -21,3 +21,4 @@ $log->pushHandler($handler);
 // add records to the log
 $log->warning('Foo');
 $log->error('Bar');
+$log->info('Baz');
