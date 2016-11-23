@@ -17,3 +17,5 @@ php src/index.php
 
 --------------
 
+## Slides
+The slides to this workshop is located at http://www.slideshare.net/TobiasNyholm/workshop-logging-monitoring-for-wordpress
